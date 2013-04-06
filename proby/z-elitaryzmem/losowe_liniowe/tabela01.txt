@@ -1,0 +1,710 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                    Algen 2.1                   %
+%                                                %
+% Copyright©2003 Mirosław Parol & Marcin Małecki %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+ Zapis obliczeń z dnia 03.04.2013 godz. 11:18
+
+%%%%%%%%%%%%%%%%%%%% Wyniki1 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczęcie obiczeń:  godz. 11:19:06.289
+
+  Funkcja Branin'a RCOS
+   - jest to funkcja dwuwymiarowa
+   Przedziały zmienności argumentów:
+    - x1: < -5; 10 >
+    - x2: < 10; 15 >
+   Maksymalna wartość funkcji w danym obszarze
+   wynosi 212.83131
+   Funkcja przyjmuje globalną wartość minimalną 
+   0.397887 w trzech różnych punktach:
+   ( x1, x2 ) = ( -3.14...; 12,275 )
+    ( 3.14...; 2.275 ) oraz ( 9.42478; 2.475 )
+
+  Parametry genetyczne:
+   - liczebność populacji:    30
+   - liczba pokoleń:        1000
+   - prawdopodobieństwo krzyżowania: 0.01
+   - prawdopodobieństwo mutacji:     0.07
+
+  Skalowanie liniowe
+   - współczynnik zwielokrotnienia: 2.0
+
+  Selekcja metodą wyboru losowego z powtórzeniami
+   z uwzględnieniem modelu elitarnego
+
+  Wyniki obliczeń:
+    min { f(X) } =   0.39989
+      dla:
+        x1 =  -3.16202
+        x2 =  12.32414
+    uzyskane w 42 pokoleniu
+
+ Zakończenie obliczeń: godz. 11:19:06.305
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki2 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczęcie obiczeń:  godz. 11:19:25.101
+
+  Funkcja Branin'a RCOS
+   - jest to funkcja dwuwymiarowa
+   Przedziały zmienności argumentów:
+    - x1: < -5; 10 >
+    - x2: < 10; 15 >
+   Maksymalna wartość funkcji w danym obszarze
+   wynosi 212.83131
+   Funkcja przyjmuje globalną wartość minimalną 
+   0.397887 w trzech różnych punktach:
+   ( x1, x2 ) = ( -3.14...; 12,275 )
+    ( 3.14...; 2.275 ) oraz ( 9.42478; 2.475 )
+
+  Parametry genetyczne:
+   - liczebność populacji:    30
+   - liczba pokoleń:        1000
+   - prawdopodobieństwo krzyżowania: 0.02
+   - prawdopodobieństwo mutacji:     0.07
+
+  Skalowanie liniowe
+   - współczynnik zwielokrotnienia: 2.0
+
+  Selekcja metodą wyboru losowego z powtórzeniami
+   z uwzględnieniem modelu elitarnego
+
+  Wyniki obliczeń:
+    min { f(X) } =   0.39990
+      dla:
+        x1 =  -3.16202
+        x2 =  12.32231
+    uzyskane w 717 pokoleniu
+
+ Zakończenie obliczeń: godz. 11:19:25.117
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki3 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczęcie obiczeń:  godz. 11:19:29.523
+
+  Funkcja Branin'a RCOS
+   - jest to funkcja dwuwymiarowa
+   Przedziały zmienności argumentów:
+    - x1: < -5; 10 >
+    - x2: < 10; 15 >
+   Maksymalna wartość funkcji w danym obszarze
+   wynosi 212.83131
+   Funkcja przyjmuje globalną wartość minimalną 
+   0.397887 w trzech różnych punktach:
+   ( x1, x2 ) = ( -3.14...; 12,275 )
+    ( 3.14...; 2.275 ) oraz ( 9.42478; 2.475 )
+
+  Parametry genetyczne:
+   - liczebność populacji:    30
+   - liczba pokoleń:        1000
+   - prawdopodobieństwo krzyżowania: 0.03
+   - prawdopodobieństwo mutacji:     0.07
+
+  Skalowanie liniowe
+   - współczynnik zwielokrotnienia: 2.0
+
+  Selekcja metodą wyboru losowego z powtórzeniami
+   z uwzględnieniem modelu elitarnego
+
+  Wyniki obliczeń:
+    min { f(X) } =   0.39905
+      dla:
+        x1 =  -3.15516
+        x2 =  12.32414
+    uzyskane w 902 pokoleniu
+
+ Zakończenie obliczeń: godz. 11:19:29.554
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki4 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczęcie obiczeń:  godz. 11:19:33.851
+
+  Funkcja Branin'a RCOS
+   - jest to funkcja dwuwymiarowa
+   Przedziały zmienności argumentów:
+    - x1: < -5; 10 >
+    - x2: < 10; 15 >
+   Maksymalna wartość funkcji w danym obszarze
+   wynosi 212.83131
+   Funkcja przyjmuje globalną wartość minimalną 
+   0.397887 w trzech różnych punktach:
+   ( x1, x2 ) = ( -3.14...; 12,275 )
+    ( 3.14...; 2.275 ) oraz ( 9.42478; 2.475 )
+
+  Parametry genetyczne:
+   - liczebność populacji:    30
+   - liczba pokoleń:        1000
+   - prawdopodobieństwo krzyżowania: 0.04
+   - prawdopodobieństwo mutacji:     0.07
+
+  Skalowanie liniowe
+   - współczynnik zwielokrotnienia: 2.0
+
+  Selekcja metodą wyboru losowego z powtórzeniami
+   z uwzględnieniem modelu elitarnego
+
+  Wyniki obliczeń:
+    min { f(X) } =   0.39989
+      dla:
+        x1 =  -3.16202
+        x2 =  12.32444
+    uzyskane w 584 pokoleniu
+
+ Zakończenie obliczeń: godz. 11:19:33.882
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki5 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczęcie obiczeń:  godz. 11:19:42.257
+
+  Funkcja Branin'a RCOS
+   - jest to funkcja dwuwymiarowa
+   Przedziały zmienności argumentów:
+    - x1: < -5; 10 >
+    - x2: < 10; 15 >
+   Maksymalna wartość funkcji w danym obszarze
+   wynosi 212.83131
+   Funkcja przyjmuje globalną wartość minimalną 
+   0.397887 w trzech różnych punktach:
+   ( x1, x2 ) = ( -3.14...; 12,275 )
+    ( 3.14...; 2.275 ) oraz ( 9.42478; 2.475 )
+
+  Parametry genetyczne:
+   - liczebność populacji:    30
+   - liczba pokoleń:        1000
+   - prawdopodobieństwo krzyżowania: 0.05
+   - prawdopodobieństwo mutacji:     0.07
+
+  Skalowanie liniowe
+   - współczynnik zwielokrotnienia: 2.0
+
+  Selekcja metodą wyboru losowego z powtórzeniami
+   z uwzględnieniem modelu elitarnego
+
+  Wyniki obliczeń:
+    min { f(X) } =   0.39989
+      dla:
+        x1 =  -3.16202
+        x2 =  12.32414
+    uzyskane w 42 pokoleniu
+
+ Zakończenie obliczeń: godz. 11:19:42.288
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki6 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczęcie obiczeń:  godz. 11:19:45.601
+
+  Funkcja Branin'a RCOS
+   - jest to funkcja dwuwymiarowa
+   Przedziały zmienności argumentów:
+    - x1: < -5; 10 >
+    - x2: < 10; 15 >
+   Maksymalna wartość funkcji w danym obszarze
+   wynosi 212.83131
+   Funkcja przyjmuje globalną wartość minimalną 
+   0.397887 w trzech różnych punktach:
+   ( x1, x2 ) = ( -3.14...; 12,275 )
+    ( 3.14...; 2.275 ) oraz ( 9.42478; 2.475 )
+
+  Parametry genetyczne:
+   - liczebność populacji:    30
+   - liczba pokoleń:        1000
+   - prawdopodobieństwo krzyżowania: 0.06
+   - prawdopodobieństwo mutacji:     0.07
+
+  Skalowanie liniowe
+   - współczynnik zwielokrotnienia: 2.0
+
+  Selekcja metodą wyboru losowego z powtórzeniami
+   z uwzględnieniem modelu elitarnego
+
+  Wyniki obliczeń:
+    min { f(X) } =   0.39989
+      dla:
+        x1 =  -3.16202
+        x2 =  12.32414
+    uzyskane w 42 pokoleniu
+
+ Zakończenie obliczeń: godz. 11:19:45.632
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki7 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczęcie obiczeń:  godz. 11:19:56.991
+
+  Funkcja Branin'a RCOS
+   - jest to funkcja dwuwymiarowa
+   Przedziały zmienności argumentów:
+    - x1: < -5; 10 >
+    - x2: < 10; 15 >
+   Maksymalna wartość funkcji w danym obszarze
+   wynosi 212.83131
+   Funkcja przyjmuje globalną wartość minimalną 
+   0.397887 w trzech różnych punktach:
+   ( x1, x2 ) = ( -3.14...; 12,275 )
+    ( 3.14...; 2.275 ) oraz ( 9.42478; 2.475 )
+
+  Parametry genetyczne:
+   - liczebność populacji:    30
+   - liczba pokoleń:        1000
+   - prawdopodobieństwo krzyżowania: 0.07
+   - prawdopodobieństwo mutacji:     0.07
+
+  Skalowanie liniowe
+   - współczynnik zwielokrotnienia: 2.0
+
+  Selekcja metodą wyboru losowego z powtórzeniami
+   z uwzględnieniem modelu elitarnego
+
+  Wyniki obliczeń:
+    min { f(X) } =   0.40423
+      dla:
+        x1 =  -3.10526
+        x2 =  12.18879
+    uzyskane w 427 pokoleniu
+
+ Zakończenie obliczeń: godz. 11:19:57.007
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki8 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczęcie obiczeń:  godz. 11:20:00.131
+
+  Funkcja Branin'a RCOS
+   - jest to funkcja dwuwymiarowa
+   Przedziały zmienności argumentów:
+    - x1: < -5; 10 >
+    - x2: < 10; 15 >
+   Maksymalna wartość funkcji w danym obszarze
+   wynosi 212.83131
+   Funkcja przyjmuje globalną wartość minimalną 
+   0.397887 w trzech różnych punktach:
+   ( x1, x2 ) = ( -3.14...; 12,275 )
+    ( 3.14...; 2.275 ) oraz ( 9.42478; 2.475 )
+
+  Parametry genetyczne:
+   - liczebność populacji:    30
+   - liczba pokoleń:        1000
+   - prawdopodobieństwo krzyżowania: 0.08
+   - prawdopodobieństwo mutacji:     0.07
+
+  Skalowanie liniowe
+   - współczynnik zwielokrotnienia: 2.0
+
+  Selekcja metodą wyboru losowego z powtórzeniami
+   z uwzględnieniem modelu elitarnego
+
+  Wyniki obliczeń:
+    min { f(X) } =   0.39989
+      dla:
+        x1 =  -3.16202
+        x2 =  12.32414
+    uzyskane w 42 pokoleniu
+
+ Zakończenie obliczeń: godz. 11:20:00.147
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki9 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczęcie obiczeń:  godz. 11:20:02.225
+
+  Funkcja Branin'a RCOS
+   - jest to funkcja dwuwymiarowa
+   Przedziały zmienności argumentów:
+    - x1: < -5; 10 >
+    - x2: < 10; 15 >
+   Maksymalna wartość funkcji w danym obszarze
+   wynosi 212.83131
+   Funkcja przyjmuje globalną wartość minimalną 
+   0.397887 w trzech różnych punktach:
+   ( x1, x2 ) = ( -3.14...; 12,275 )
+    ( 3.14...; 2.275 ) oraz ( 9.42478; 2.475 )
+
+  Parametry genetyczne:
+   - liczebność populacji:    30
+   - liczba pokoleń:        1000
+   - prawdopodobieństwo krzyżowania: 0.09
+   - prawdopodobieństwo mutacji:     0.07
+
+  Skalowanie liniowe
+   - współczynnik zwielokrotnienia: 2.0
+
+  Selekcja metodą wyboru losowego z powtórzeniami
+   z uwzględnieniem modelu elitarnego
+
+  Wyniki obliczeń:
+    min { f(X) } =   0.39877
+      dla:
+        x1 =  -3.15516
+        x2 =  12.30674
+    uzyskane w 956 pokoleniu
+
+ Zakończenie obliczeń: godz. 11:20:02.256
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki10 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczęcie obiczeń:  godz. 11:20:05.663
+
+  Funkcja Branin'a RCOS
+   - jest to funkcja dwuwymiarowa
+   Przedziały zmienności argumentów:
+    - x1: < -5; 10 >
+    - x2: < 10; 15 >
+   Maksymalna wartość funkcji w danym obszarze
+   wynosi 212.83131
+   Funkcja przyjmuje globalną wartość minimalną 
+   0.397887 w trzech różnych punktach:
+   ( x1, x2 ) = ( -3.14...; 12,275 )
+    ( 3.14...; 2.275 ) oraz ( 9.42478; 2.475 )
+
+  Parametry genetyczne:
+   - liczebność populacji:    30
+   - liczba pokoleń:        1000
+   - prawdopodobieństwo krzyżowania: 0.10
+   - prawdopodobieństwo mutacji:     0.07
+
+  Skalowanie liniowe
+   - współczynnik zwielokrotnienia: 2.0
+
+  Selekcja metodą wyboru losowego z powtórzeniami
+   z uwzględnieniem modelu elitarnego
+
+  Wyniki obliczeń:
+    min { f(X) } =   0.39989
+      dla:
+        x1 =  -3.16202
+        x2 =  12.32414
+    uzyskane w 42 pokoleniu
+
+ Zakończenie obliczeń: godz. 11:20:05.694
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki11 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczęcie obiczeń:  godz. 11:20:08.288
+
+  Funkcja Branin'a RCOS
+   - jest to funkcja dwuwymiarowa
+   Przedziały zmienności argumentów:
+    - x1: < -5; 10 >
+    - x2: < 10; 15 >
+   Maksymalna wartość funkcji w danym obszarze
+   wynosi 212.83131
+   Funkcja przyjmuje globalną wartość minimalną 
+   0.397887 w trzech różnych punktach:
+   ( x1, x2 ) = ( -3.14...; 12,275 )
+    ( 3.14...; 2.275 ) oraz ( 9.42478; 2.475 )
+
+  Parametry genetyczne:
+   - liczebność populacji:    30
+   - liczba pokoleń:        1000
+   - prawdopodobieństwo krzyżowania: 0.20
+   - prawdopodobieństwo mutacji:     0.07
+
+  Skalowanie liniowe
+   - współczynnik zwielokrotnienia: 2.0
+
+  Selekcja metodą wyboru losowego z powtórzeniami
+   z uwzględnieniem modelu elitarnego
+
+  Wyniki obliczeń:
+    min { f(X) } =   0.40527
+      dla:
+        x1 =  -3.18079
+        x2 =  12.37007
+    uzyskane w 699 pokoleniu
+
+ Zakończenie obliczeń: godz. 11:20:08.319
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki12 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczęcie obiczeń:  godz. 11:20:10.459
+
+  Funkcja Branin'a RCOS
+   - jest to funkcja dwuwymiarowa
+   Przedziały zmienności argumentów:
+    - x1: < -5; 10 >
+    - x2: < 10; 15 >
+   Maksymalna wartość funkcji w danym obszarze
+   wynosi 212.83131
+   Funkcja przyjmuje globalną wartość minimalną 
+   0.397887 w trzech różnych punktach:
+   ( x1, x2 ) = ( -3.14...; 12,275 )
+    ( 3.14...; 2.275 ) oraz ( 9.42478; 2.475 )
+
+  Parametry genetyczne:
+   - liczebność populacji:    30
+   - liczba pokoleń:        1000
+   - prawdopodobieństwo krzyżowania: 0.30
+   - prawdopodobieństwo mutacji:     0.07
+
+  Skalowanie liniowe
+   - współczynnik zwielokrotnienia: 2.0
+
+  Selekcja metodą wyboru losowego z powtórzeniami
+   z uwzględnieniem modelu elitarnego
+
+  Wyniki obliczeń:
+    min { f(X) } =   0.41295
+      dla:
+        x1 =  -3.08557
+        x2 =  12.14118
+    uzyskane w 857 pokoleniu
+
+ Zakończenie obliczeń: godz. 11:20:10.475
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki13 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczęcie obiczeń:  godz. 11:20:12.631
+
+  Funkcja Branin'a RCOS
+   - jest to funkcja dwuwymiarowa
+   Przedziały zmienności argumentów:
+    - x1: < -5; 10 >
+    - x2: < 10; 15 >
+   Maksymalna wartość funkcji w danym obszarze
+   wynosi 212.83131
+   Funkcja przyjmuje globalną wartość minimalną 
+   0.397887 w trzech różnych punktach:
+   ( x1, x2 ) = ( -3.14...; 12,275 )
+    ( 3.14...; 2.275 ) oraz ( 9.42478; 2.475 )
+
+  Parametry genetyczne:
+   - liczebność populacji:    30
+   - liczba pokoleń:        1000
+   - prawdopodobieństwo krzyżowania: 0.40
+   - prawdopodobieństwo mutacji:     0.07
+
+  Skalowanie liniowe
+   - współczynnik zwielokrotnienia: 2.0
+
+  Selekcja metodą wyboru losowego z powtórzeniami
+   z uwzględnieniem modelu elitarnego
+
+  Wyniki obliczeń:
+    min { f(X) } =   0.39796
+      dla:
+        x1 =  -3.14508
+        x2 =  12.28721
+    uzyskane w 876 pokoleniu
+
+ Zakończenie obliczeń: godz. 11:20:12.662
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki14 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczęcie obiczeń:  godz. 11:20:14.709
+
+  Funkcja Branin'a RCOS
+   - jest to funkcja dwuwymiarowa
+   Przedziały zmienności argumentów:
+    - x1: < -5; 10 >
+    - x2: < 10; 15 >
+   Maksymalna wartość funkcji w danym obszarze
+   wynosi 212.83131
+   Funkcja przyjmuje globalną wartość minimalną 
+   0.397887 w trzech różnych punktach:
+   ( x1, x2 ) = ( -3.14...; 12,275 )
+    ( 3.14...; 2.275 ) oraz ( 9.42478; 2.475 )
+
+  Parametry genetyczne:
+   - liczebność populacji:    30
+   - liczba pokoleń:        1000
+   - prawdopodobieństwo krzyżowania: 0.50
+   - prawdopodobieństwo mutacji:     0.07
+
+  Skalowanie liniowe
+   - współczynnik zwielokrotnienia: 2.0
+
+  Selekcja metodą wyboru losowego z powtórzeniami
+   z uwzględnieniem modelu elitarnego
+
+  Wyniki obliczeń:
+    min { f(X) } =   0.40845
+      dla:
+        x1 =  -3.09473
+        x2 =  12.15857
+    uzyskane w 849 pokoleniu
+
+ Zakończenie obliczeń: godz. 11:20:14.725
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki15 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczęcie obiczeń:  godz. 11:20:16.944
+
+  Funkcja Branin'a RCOS
+   - jest to funkcja dwuwymiarowa
+   Przedziały zmienności argumentów:
+    - x1: < -5; 10 >
+    - x2: < 10; 15 >
+   Maksymalna wartość funkcji w danym obszarze
+   wynosi 212.83131
+   Funkcja przyjmuje globalną wartość minimalną 
+   0.397887 w trzech różnych punktach:
+   ( x1, x2 ) = ( -3.14...; 12,275 )
+    ( 3.14...; 2.275 ) oraz ( 9.42478; 2.475 )
+
+  Parametry genetyczne:
+   - liczebność populacji:    30
+   - liczba pokoleń:        1000
+   - prawdopodobieństwo krzyżowania: 0.60
+   - prawdopodobieństwo mutacji:     0.07
+
+  Skalowanie liniowe
+   - współczynnik zwielokrotnienia: 2.0
+
+  Selekcja metodą wyboru losowego z powtórzeniami
+   z uwzględnieniem modelu elitarnego
+
+  Wyniki obliczeń:
+    min { f(X) } =   0.40172
+      dla:
+        x1 =  -3.11350
+        x2 =  12.21381
+    uzyskane w 937 pokoleniu
+
+ Zakończenie obliczeń: godz. 11:20:16.975
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki16 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczęcie obiczeń:  godz. 11:20:19.459
+
+  Funkcja Branin'a RCOS
+   - jest to funkcja dwuwymiarowa
+   Przedziały zmienności argumentów:
+    - x1: < -5; 10 >
+    - x2: < 10; 15 >
+   Maksymalna wartość funkcji w danym obszarze
+   wynosi 212.83131
+   Funkcja przyjmuje globalną wartość minimalną 
+   0.397887 w trzech różnych punktach:
+   ( x1, x2 ) = ( -3.14...; 12,275 )
+    ( 3.14...; 2.275 ) oraz ( 9.42478; 2.475 )
+
+  Parametry genetyczne:
+   - liczebność populacji:    30
+   - liczba pokoleń:        1000
+   - prawdopodobieństwo krzyżowania: 0.70
+   - prawdopodobieństwo mutacji:     0.07
+
+  Skalowanie liniowe
+   - współczynnik zwielokrotnienia: 2.0
+
+  Selekcja metodą wyboru losowego z powtórzeniami
+   z uwzględnieniem modelu elitarnego
+
+  Wyniki obliczeń:
+    min { f(X) } =   0.40049
+      dla:
+        x1 =  -3.16477
+        x2 =  12.33482
+    uzyskane w 998 pokoleniu
+
+ Zakończenie obliczeń: godz. 11:20:19.475
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki17 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczęcie obiczeń:  godz. 11:20:22.318
+
+  Funkcja Branin'a RCOS
+   - jest to funkcja dwuwymiarowa
+   Przedziały zmienności argumentów:
+    - x1: < -5; 10 >
+    - x2: < 10; 15 >
+   Maksymalna wartość funkcji w danym obszarze
+   wynosi 212.83131
+   Funkcja przyjmuje globalną wartość minimalną 
+   0.397887 w trzech różnych punktach:
+   ( x1, x2 ) = ( -3.14...; 12,275 )
+    ( 3.14...; 2.275 ) oraz ( 9.42478; 2.475 )
+
+  Parametry genetyczne:
+   - liczebność populacji:    30
+   - liczba pokoleń:        1000
+   - prawdopodobieństwo krzyżowania: 0.80
+   - prawdopodobieństwo mutacji:     0.07
+
+  Skalowanie liniowe
+   - współczynnik zwielokrotnienia: 2.0
+
+  Selekcja metodą wyboru losowego z powtórzeniami
+   z uwzględnieniem modelu elitarnego
+
+  Wyniki obliczeń:
+    min { f(X) } =   0.39829
+      dla:
+        x1 =  -3.13318
+        x2 =  12.24693
+    uzyskane w 707 pokoleniu
+
+ Zakończenie obliczeń: godz. 11:20:22.350
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki18 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczęcie obiczeń:  godz. 11:20:25.584
+
+  Funkcja Branin'a RCOS
+   - jest to funkcja dwuwymiarowa
+   Przedziały zmienności argumentów:
+    - x1: < -5; 10 >
+    - x2: < 10; 15 >
+   Maksymalna wartość funkcji w danym obszarze
+   wynosi 212.83131
+   Funkcja przyjmuje globalną wartość minimalną 
+   0.397887 w trzech różnych punktach:
+   ( x1, x2 ) = ( -3.14...; 12,275 )
+    ( 3.14...; 2.275 ) oraz ( 9.42478; 2.475 )
+
+  Parametry genetyczne:
+   - liczebność populacji:    30
+   - liczba pokoleń:        1000
+   - prawdopodobieństwo krzyżowania: 0.90
+   - prawdopodobieństwo mutacji:     0.07
+
+  Skalowanie liniowe
+   - współczynnik zwielokrotnienia: 2.0
+
+  Selekcja metodą wyboru losowego z powtórzeniami
+   z uwzględnieniem modelu elitarnego
+
+  Wyniki obliczeń:
+    min { f(X) } =   0.39803
+      dla:
+        x1 =  -3.14692
+        x2 =  12.28858
+    uzyskane w 537 pokoleniu
+
+ Zakończenie obliczeń: godz. 11:20:25.615
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
