@@ -142,4 +142,20 @@ describe Sample do
       samples.each { |sample| expect(sample.generations).to eq 1000 }
     end
   end
+
+  describe '.crossover_prob' do
+    it "returns samples's crossover probability" do
+      expect(ble.crossover_prob).to eq 0.02
+      expect(rt.crossover_prob).to eq 0.07
+      expect(lt.crossover_prob).to eq 0.50
+    end
+  end
+
+  describe '.mutation_prob' do
+    it "returns samples's mutation probability" do
+      expect(ble.mutation_prob).to eq 0.07
+      expect(rt.mutation_prob).to eq 0.07
+      expect(lt.mutation_prob).to eq 0.70
+    end
+  end
 end
