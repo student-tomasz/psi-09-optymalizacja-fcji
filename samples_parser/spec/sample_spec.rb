@@ -37,7 +37,7 @@ describe Sample do
 
   describe '.scaling_method' do
     it "returns scaling method" do
-      expect(ble.scaling_method).to be_nil
+      expect(ble.scaling_method).to eq 'bez skalowania'
       expect(rt.scaling_method).to eq 'rankingowe wykładnicze'
       expect(lt.scaling_method).to eq 'liniowe'
     end
@@ -88,7 +88,7 @@ describe Sample do
       end
 
       it "returns values in order" do
-        expect(ble.to_row).to eq [nil, 'wyboru losowego z powtórzeniami', true, 0.02, 0.07, 0.39990, 717]
+        expect(ble.to_row).to eq ['bez skalowania', 'wyboru losowego z powtórzeniami', true, 0.02, 0.07, 0.39990, 717]
         expect(rt.to_row).to eq ['rankingowe wykładnicze', 'turniejów losowych', false, 0.07, 0.07, 0.39796, 860]
         expect(lt.to_row).to eq ['liniowe', 'turniejów losowych', false, 0.50, 0.70, 0.39850, 816]
       end
@@ -107,7 +107,7 @@ describe Sample do
       end
 
       it "returns values in order" do
-        expect(ble.to_row(columns_order)).to eq [nil, 0.02, 0.07]
+        expect(ble.to_row(columns_order)).to eq ['bez skalowania', 0.02, 0.07]
         expect(rt.to_row(columns_order)).to eq ['rankingowe wykładnicze', 0.07, 0.07]
         expect(lt.to_row(columns_order)).to eq ['liniowe', 0.50, 0.70]
       end

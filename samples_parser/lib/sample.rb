@@ -33,7 +33,11 @@ class Sample
   end
 
   def scaling_method
-    @scaling_method ||= $1.strip if @log =~ REGEXS[:scaling_method]
+    @scaling_method ||= if @log =~ REGEXS[:scaling_method]
+      $1.strip
+    else
+      'bez skalowania'
+    end
   end
 
   def selection_method
