@@ -1,0 +1,36 @@
+
+%%%%%%%%%%%%%%%%%%%% Wyniki16 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczęcie obiczeń:  godz. 13:31:45.461
+
+  Funkcja Branin'a RCOS
+   - jest to funkcja dwuwymiarowa
+   Przedziały zmienności argumentów:
+    - x1: < -5; 10 >
+    - x2: < 10; 15 >
+   Maksymalna wartość funkcji w danym obszarze
+   wynosi 212.83131
+   Funkcja przyjmuje globalną wartość minimalną
+   0.397887 w trzech różnych punktach:
+   ( x1, x2 ) = ( -3.14...; 12,275 )
+    ( 3.14...; 2.275 ) oraz ( 9.42478; 2.475 )
+
+  Parametry genetyczne:
+   - liczebność populacji:    30
+   - liczba pokoleń:        1000
+   - prawdopodobieństwo krzyżowania: 0.50
+   - prawdopodobieństwo mutacji:     0.70
+
+  Skalowanie liniowe
+   - współczynnik zwielokrotnienia: 2.0
+
+  Selekcja metodą 'turniejów losowych'
+  Wyniki obliczeń:
+    min { f(X) } =   0.39850
+      dla:
+        x1 =  -3.15287
+        x2 =  12.30049
+    uzyskane w 816 pokoleniu
+
+ Zakończenie obliczeń: godz. 13:31:45.538
+
