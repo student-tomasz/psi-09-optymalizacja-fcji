@@ -1,12 +1,13 @@
 class Log
   DELIMITER = '%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%'
+  COLUMNS = %i[scaling_method selection_method elitism_enabled? crossover_prob mutation_prob result achieved_in]
 
   def initialize log_path
     @log_path = log_path
   end
 
   def to_table
-    @table ||= samples.map { |sample| sample.to_row }
+    @table ||= samples.map { |sample| sample.to_row(COLUMNS) }
   end
 
   private

@@ -76,18 +76,41 @@ describe Sample do
   end
 
   describe '.to_row' do
-    it "returns an array" do
-      samples.each { |sample| expect(sample.to_row).to be_an Array }
+    context "with default columns" do
+      subject(:rows) { samples.map { |sample| sample.to_row }}
+
+      it "returns an array" do
+        rows.each { |row| expect(row).to be_an Array }
+      end
+
+      it "returns 7 values" do
+        rows.each { |row| expect(row.length).to eq 7 }
+      end
+
+      it "returns values in order" do
+        expect(ble.to_row).to eq [nil, 'wyboru losowego z powtórzeniami', true, 0.02, 0.07, 0.39990, 717]
+        expect(rt.to_row).to eq ['rankingowe wykładnicze', 'turniejów losowych', false, 0.07, 0.07, 0.39796, 860]
+        expect(lt.to_row).to eq ['liniowe', 'turniejów losowych', false, 0.50, 0.70, 0.39850, 816]
+      end
     end
 
-    it "returns 7 values" do
-      samples.each { |sample| expect(sample.to_row.length).to eq 7 }
-    end
+    context "with specified columns" do
+      let(:columns_order) { %i[scaling_method crossover_prob mutation_prob] }
+      subject(:rows) { samples.map { |sample| sample.to_row(columns_order) }}
 
-    it "returns values in order" do
-      expect(ble.to_row).to eq [nil, 'wyboru losowego z powtórzeniami', true, 0.02, 0.07, 0.39990, 717]
-      expect(rt.to_row).to eq ['rankingowe wykładnicze', 'turniejów losowych', false, 0.07, 0.07, 0.39796, 860]
-      expect(lt.to_row).to eq ['liniowe', 'turniejów losowych', false, 0.50, 0.70, 0.39850, 816]
+      it "returns an array" do
+        rows.each { |row| expect(row).to be_an Array }
+      end
+
+      it "returns 3 values" do
+        rows.each { |row| expect(row.length).to eq columns_order.length }
+      end
+
+      it "returns values in order" do
+        expect(ble.to_row(columns_order)).to eq [nil, 0.02, 0.07]
+        expect(rt.to_row(columns_order)).to eq ['rankingowe wykładnicze', 0.07, 0.07]
+        expect(lt.to_row(columns_order)).to eq ['liniowe', 0.50, 0.70]
+      end
     end
   end
 end

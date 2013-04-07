@@ -15,5 +15,13 @@ describe Log do
     it "returns 18 rows" do
       expect(table.length).to eq 18
     end
+
+    it "returns 7 columns" do
+      expect(table[0].length).to eq 7
+    end
+
+    it "returns correct rows" do
+      expect(table[0]).to eq ['rankingowe wykładnicze', 'turniejów losowych', true, 0.70, 0.01, 0.39802, 834]
+    end
   end
 end

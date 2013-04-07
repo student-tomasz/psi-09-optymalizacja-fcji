@@ -52,7 +52,7 @@ class Sample
     @achieved_in ||= Integer($1) if @log =~ REGEXS[:achieved_in]
   end
 
-  def to_row
-    COLUMNS.map { |attr| self.send(attr) }
+  def to_row columns_order = COLUMNS
+    columns_order.map { |attr| self.send(attr) }
   end
 end
