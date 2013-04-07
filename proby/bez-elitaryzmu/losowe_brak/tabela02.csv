@@ -1,0 +1,19 @@
+Metoda skalowania,Metoda selekcji,Elitaryzm,Prawdopodobieństwo krzyżowania,Prawdopodobieństwo mutacji,Wynik,Osiągnięty w generacji
+bez skalowania,wyboru losowego z powtórzeniami,false,0.9,0.01,0.60502,752
+bez skalowania,wyboru losowego z powtórzeniami,false,0.9,0.02,0.40709,895
+bez skalowania,wyboru losowego z powtórzeniami,false,0.9,0.03,0.40541,721
+bez skalowania,wyboru losowego z powtórzeniami,false,0.9,0.04,0.40669,30
+bez skalowania,wyboru losowego z powtórzeniami,false,0.9,0.05,0.4143,366
+bez skalowania,wyboru losowego z powtórzeniami,false,0.9,0.06,0.39845,33
+bez skalowania,wyboru losowego z powtórzeniami,false,0.9,0.07,0.39793,187
+bez skalowania,wyboru losowego z powtórzeniami,false,0.9,0.08,0.40703,716
+bez skalowania,wyboru losowego z powtórzeniami,false,0.9,0.09,0.40383,852
+bez skalowania,wyboru losowego z powtórzeniami,false,0.9,0.1,0.40488,966
+bez skalowania,wyboru losowego z powtórzeniami,false,0.9,0.2,0.40614,122
+bez skalowania,wyboru losowego z powtórzeniami,false,0.9,0.3,0.4035,669
+bez skalowania,wyboru losowego z powtórzeniami,false,0.9,0.4,0.40066,268
+bez skalowania,wyboru losowego z powtórzeniami,false,0.9,0.5,0.39912,999
+bez skalowania,wyboru losowego z powtórzeniami,false,0.9,0.6,0.39954,253
+bez skalowania,wyboru losowego z powtórzeniami,false,0.9,0.7,0.39836,21
+bez skalowania,wyboru losowego z powtórzeniami,false,0.9,0.8,0.39913,126
+bez skalowania,wyboru losowego z powtórzeniami,false,0.9,0.9,0.39843,724

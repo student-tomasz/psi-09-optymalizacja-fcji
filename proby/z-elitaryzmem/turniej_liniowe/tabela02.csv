@@ -1,0 +1,19 @@
+Metoda skalowania,Metoda selekcji,Elitaryzm,Prawdopodobieństwo krzyżowania,Prawdopodobieństwo mutacji,Wynik,Osiągnięty w generacji
+liniowe,turniejów losowych,true,0.7,0.01,0.39802,834
+liniowe,turniejów losowych,true,0.7,0.02,0.39794,655
+liniowe,turniejów losowych,true,0.7,0.03,0.39989,449
+liniowe,turniejów losowych,true,0.7,0.04,0.40306,648
+liniowe,turniejów losowych,true,0.7,0.05,0.39828,904
+liniowe,turniejów losowych,true,0.7,0.06,0.39841,846
+liniowe,turniejów losowych,true,0.7,0.07,0.3979,618
+liniowe,turniejów losowych,true,0.7,0.08,0.39803,373
+liniowe,turniejów losowych,true,0.7,0.09,0.39798,977
+liniowe,turniejów losowych,true,0.7,0.1,0.39841,447
+liniowe,turniejów losowych,true,0.7,0.2,0.39808,745
+liniowe,turniejów losowych,true,0.7,0.3,0.39802,916
+liniowe,turniejów losowych,true,0.7,0.4,0.3979,669
+liniowe,turniejów losowych,true,0.7,0.5,0.3982,807
+liniowe,turniejów losowych,true,0.7,0.6,0.39824,979
+liniowe,turniejów losowych,true,0.7,0.7,0.39909,305
+liniowe,turniejów losowych,true,0.7,0.8,0.39828,61
+liniowe,turniejów losowych,true,0.7,0.9,0.39999,677
