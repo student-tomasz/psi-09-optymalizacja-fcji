@@ -158,4 +158,60 @@ describe Sample do
       expect(lt.mutation_prob).to eq 0.70
     end
   end
+
+  describe '.scaling' do
+    it "returns scaling method" do
+      expect(ble.scaling).to be_nil
+      expect(rt.scaling).to eq 'rankingowe wykładnicze'
+      expect(lt.scaling).to eq 'liniowe'
+    end
+  end
+
+  describe '.selection' do
+    it "returns selection method" do
+      expect(ble.selection).to eq 'wyboru losowego z powtórzeniami'
+      expect(rt.selection).to eq 'turniejów losowych'
+      expect(lt.selection).to eq 'turniejów losowych'
+    end
+  end
+
+  describe '.elitism' do
+    it "returns whether elitism was enabled" do
+      expect(ble.elitism).to be_true
+      expect(rt.elitism).to be_false
+      expect(lt.elitism).to be_false
+    end
+  end
+
+  describe '.result' do
+    it "returns result value" do
+      expect(ble.result).to eq 0.39990
+      expect(rt.result).to eq 0.39796
+      expect(lt.result).to eq 0.39850
+    end
+  end
+
+  describe '.achieved_in' do
+    it "returns generation that achieved the result" do
+      expect(ble.achieved_in).to eq 717
+      expect(rt.achieved_in).to eq 860
+      expect(lt.achieved_in).to eq 816
+    end
+  end
+
+  describe '.to_row' do
+    it "returns an array" do
+      samples.each { |sample| expect(sample.to_row).to be_an Array }
+    end
+
+    it "returns 7 values" do
+      samples.each { |sample| expect(sample.to_row.length).to eq 7 }
+    end
+
+    it "returns values in order" do
+      expect(ble.to_row).to eq [nil, 'wyboru losowego z powtórzeniami', true, 0.02, 0.07, 0.39990, 717]
+      expect(rt.to_row).to eq ['rankingowe wykładnicze', 'turniejów losowych', false, 0.07, 0.07, 0.39796, 860]
+      expect(lt.to_row).to eq ['liniowe', 'turniejów losowych', false, 0.50, 0.70, 0.39850, 816]
+    end
+  end
 end
